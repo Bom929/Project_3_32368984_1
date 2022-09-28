@@ -1,4 +1,5 @@
-﻿using DeviceManagement_WebApp.Models;
+﻿//Kevin-Peter Naude 32368984
+using DeviceManagement_WebApp.Models;
 using System.Collections.Generic;
 
 namespace DeviceManagement_WebApp.Repository
